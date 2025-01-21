@@ -29680,17 +29680,10 @@
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/alireza7092/token-list/main/assets/mainnet/FY4982sP9bvCrfzsEPL4xPnmzL1agoZp3x9BGWwrpump/logo.png",
     "tags": ["utility-token"]
+    "added XMONEY token"
     },
     {
       "chainId": 101,
       "address": "4HecfhYXWiRhfJyjfRAufrxkRocBgwDzRmYAzCLS3VDA",
       "symbol": "HEADS",
-      "name": "Space Heads Coin",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4HecfhYXWiRhfJyjfRAufrxkRocBgwDzRmYAzCLS3VDA/logo.svg",
-      "tags": [
-        "utility-token"
-        },
-        {
-    "chainId": 101,
-    "address": "FY4982sP9bvCrfzsEPL4xPnmzL1agoZp3x9BG
+    
